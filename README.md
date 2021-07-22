@@ -1,5 +1,5 @@
-# openERP
-openERP: is a open source project for a open ERP for businesses to use.
+# 👨‍💼 openERP 👩‍💼
+**`openERP`: is a open source project for an ERP systems, that can be used for general business use cases..**
 
 This project will utilize some of the current best practises as of today from a `Clean-Architecture` standpoint as well as utilizing `microservices` as well.
 
@@ -51,6 +51,7 @@ Some of the technologies that will be used in is stack will be as followed.
 `clean-architecture-dotnet` is a collection of basic building blocks and project structure to help we get starting the project with less code boilerplate and effortless. We focus on the Microservice approach of how can we organize code, the project with the monorepo approach, and you can use it for modular monolith projects as well.
 ![image](https://user-images.githubusercontent.com/38886930/126588300-459b31ca-cd22-4a5d-b480-6f49a436e5aa.png)
 Reference to https://github.com/Sairyss/domain-driven-hexagon
+
 
 # 🕴️ ERP OverView
 ![image](https://user-images.githubusercontent.com/38886930/126584501-31ba227e-79ce-495e-97a0-9cd46ae2a187.png)
