@@ -3,7 +3,7 @@
 
 This project will utilize some of the current best practises as of today from a `Clean-Architecture` standpoint as well as utilizing `microservices` as well.
 
-Some of the technologies that will be used in is stack will be as followed. 
+Some of the technologies that will be used in is stack will be as followed, you can think of this as a current roadmap. 
 
 # :hearts: Technical stacks
 - ✔️ **[`.NET Core 6`](https://dotnet.microsoft.com/download)** - .NET Framework and .NET Core, including ASP.NET and ASP.NET Core
