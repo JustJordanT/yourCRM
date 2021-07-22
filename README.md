@@ -9,9 +9,9 @@ Some of the technologies that will be used in is stack will be as followed.
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [.NET](https://github.com/dotnet/runtime)
   - [.NET Docker Images](https://github.com/dotnet/dotnet-docker)
-- [Dapr]()
+- [Dapr](https://dapr.io/)
 - [Tye](https://github.com/dotnet/tye)
-- [Docker]()
+- [Docker](https://www.docker.com/)
 - [JS](https://www.javascript.com/)
 - [React](https://reactjs.org/)
 - Messaging Systems: 
