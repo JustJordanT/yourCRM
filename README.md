@@ -68,3 +68,4 @@ Being able to use Git, enables us to utililze best practise for release manageme
 
 # 📰 Referances
 https://github.com/thangchung/clean-architecture-dotnet
+https://nvie.com/posts/a-successful-git-branching-model/
