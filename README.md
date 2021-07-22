@@ -52,6 +52,12 @@ Some of the technologies that will be used in is stack will be as followed.
 ![image](https://user-images.githubusercontent.com/38886930/126588300-459b31ca-cd22-4a5d-b480-6f49a436e5aa.png)
 Reference to https://github.com/Sairyss/domain-driven-hexagon
 
+# 🗺️ Git Branching 
+
+Being able to use Git, enables us to utililze best practise for release management. This also allows us to be `Decentralized but centralized` meaning that user/contributor can change and update the source of truth with out impacting each others work. Bob can change and make updates to his current work, while Alice is able to work on other additional features with out impacting each others work.
+
+![image](https://user-images.githubusercontent.com/38886930/126631098-393cd0e9-e3f1-40f9-b029-5e7cb7bc3413.png)
+
 
 # 🕴️ ERP OverView
 ![image](https://user-images.githubusercontent.com/38886930/126584501-31ba227e-79ce-495e-97a0-9cd46ae2a187.png)
