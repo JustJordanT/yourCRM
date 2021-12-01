@@ -1,0 +1,15 @@
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/bin/Debug/net6.0/contacts
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/bin/Debug/net6.0/contacts.deps.json
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/bin/Debug/net6.0/contacts.runtimeconfig.json
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/bin/Debug/net6.0/contacts.dll
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/bin/Debug/net6.0/ref/contacts.dll
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/bin/Debug/net6.0/contacts.pdb
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.csproj.AssemblyReference.cache
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.AssemblyInfoInputs.cache
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.AssemblyInfo.cs
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.csproj.CoreCompileInputs.cache
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.dll
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/ref/contacts.dll
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.pdb
+/Users/jordantaylor/repos/dotnet/yourCRM/yourCRM/contacts/obj/Debug/net6.0/contacts.genruntimeconfig.cache
