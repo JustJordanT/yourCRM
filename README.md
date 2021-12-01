@@ -1,5 +1,5 @@
-# 👨‍💼 openERP 👩‍💼
-**`openERP`: is a open source project for an ERP systems, that can be used for general business use cases..**
+# 👨‍💼 yourCRM 👩‍💼
+CRMs increase your profitability by streamlining administrative processes in your sales, marketing, and service divisions, and letting you focus on building and maintaining the customer relationships that matter.
 
 This project will utilize some of the current best practises as of today from a `Clean-Architecture` standpoint as well as utilizing `microservices` as well.
 
@@ -57,12 +57,6 @@ Reference to https://github.com/Sairyss/domain-driven-hexagon
 Being able to use Git, enables us to utililze best practise for release management. This also allows us to be `Decentralized but centralized` meaning that user/contributor can change and update the source of truth with out impacting each others work. Bob can change and make updates to his current work, while Alice is able to work on other additional features with out impacting each others work.
 
 ![image](https://user-images.githubusercontent.com/38886930/126631098-393cd0e9-e3f1-40f9-b029-5e7cb7bc3413.png)
-
-
-# 🕴️ ERP OverView
-![image](https://user-images.githubusercontent.com/38886930/126584501-31ba227e-79ce-495e-97a0-9cd46ae2a187.png)
-
-![image](https://user-images.githubusercontent.com/38886930/126584627-97dda151-3017-401b-988a-b12c1a0bb90f.png)
 
 
 
