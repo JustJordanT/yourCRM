@@ -23,20 +23,20 @@ Some of the technologies that will be used in is stack will be as followed, you 
 - [ ] **[`BFF`](https://github.com/DuendeSoftware/BFF)** - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
 
 # 🧰 Resources
-- ✔️[`C#`](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- ✔️[`.NET`](https://github.com/dotnet/runtime)
-  - ✔️[`.NET Docker Images`](https://github.com/dotnet/dotnet-docker)
-- ✔️[`Dapr`](https://dapr.io/)
-- ✔️[`Tye`](https://github.com/dotnet/tye)
-- ✔️[`Docker`](https://www.docker.com/)
-- ✔️[`JS`](https://www.javascript.com/)
-- ✔️[`React`](https://reactjs.org/)
-- ✔️`Messaging Systems`: 
-  - ✔️[`RabbitMQ`](https://www.rabbitmq.com/)
-  - ✔️[`Redis-PubSub`](https://redis.io/topics/pubsub)
-- ✔️`DataBase`
-  - ✔️[`MSSql`](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-  - ✔️[`Redis`](https://redis.io/)
+- [`C#`](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [`.NET`](https://github.com/dotnet/runtime)
+  - [`.NET Docker Images`](https://github.com/dotnet/dotnet-docker)
+- [`Dapr`](https://dapr.io/)
+- [`Tye`](https://github.com/dotnet/tye)
+- [`Docker`](https://www.docker.com/)
+- [`JS`](https://www.javascript.com/)
+- [`React`](https://reactjs.org/)
+- `Messaging Systems`: 
+  - [`RabbitMQ`](https://www.rabbitmq.com/)
+  - [`Redis-PubSub`](https://redis.io/topics/pubsub)
+- `DataBase`
+  - [`MSSql`](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+  - [`Redis`](https://redis.io/)
 
 # 🎇 Minimal DDD, CQRS, and Clean Architecture
 
